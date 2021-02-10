@@ -14,6 +14,6 @@ gazebo에서 drone 실행하는 방법 -> 순서대로 하기
 1. https://docs.px4.io/master/en/dev_setup/dev_env_linux_ubuntu.html#gazebo-jmavsim-and-nuttx-pixhawk-targets
 2. https://docs.px4.io/master/en/simulation/gazebo.html
 
-qground install
+qgroundcontrol install
 https://docs.qgroundcontrol.com/master/en/getting_started/download_and_install.html
 -> sudo usermod -a -G dialout 사용자이름
