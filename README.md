@@ -16,4 +16,5 @@ gazebo에서 drone 실행하는 방법 -> 순서대로 하기
 
 qgroundcontrol install
 https://docs.qgroundcontrol.com/master/en/getting_started/download_and_install.html
--> sudo usermod -a -G dialout 사용자이름
+ 
+ -> sudo usermod -a -G dialout 사용자이름
