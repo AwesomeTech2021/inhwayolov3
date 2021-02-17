@@ -21,7 +21,7 @@ https://docs.qgroundcontrol.com/master/en/getting_started/download_and_install.h
 
 - 이 에러 날때
 Unable to register with master node [http://localhost:11311/]: master may not be running yet. Will keep trying.
-roscore 명령어 실행
+     -> roscore 명령어 실행
 
 - roscore 안될 때
 https://answers.ros.org/question/60366/problem-with-roscore/
