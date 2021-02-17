@@ -21,3 +21,6 @@ https://docs.qgroundcontrol.com/master/en/getting_started/download_and_install.h
  
  qgroundcontrol 3.5.6
  https://github.com/mavlink/qgroundcontrol/releases/tag/v3.5.6
+
+roscore X
+https://answers.ros.org/question/60366/problem-with-roscore/
