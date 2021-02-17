@@ -14,7 +14,7 @@ https://www.programmersought.com/article/57944393651/
 - qgroundcontrol install
 https://docs.qgroundcontrol.com/master/en/getting_started/download_and_install.html
  
- -> sudo usermod -a -G dialout 사용자이름
+     -> sudo usermod -a -G dialout 사용자이름
  
 - qgroundcontrol 3.5.6
  https://github.com/mavlink/qgroundcontrol/releases/tag/v3.5.6
