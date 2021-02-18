@@ -31,3 +31,6 @@ https://github.com/Jaeyoung-Lim/avoidance
 
 - Obstacle avoidance
 https://github.com/mmmmmmwei/obstacle_avoidance_drone
+
+- catkin build error
+https://github.com/catkin/catkin_tools/issues/525
