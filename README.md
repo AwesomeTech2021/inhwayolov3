@@ -25,3 +25,9 @@ Unable to register with master node [http://localhost:11311/]: master may not be
 
 - roscore 안될 때
 https://answers.ros.org/question/60366/problem-with-roscore/
+
+- Obstacle avoidance base setting
+https://github.com/Jaeyoung-Lim/avoidance
+
+- Obstacle avoidance
+https://github.com/mmmmmmwei/obstacle_avoidance_drone
