@@ -38,3 +38,7 @@ https://github.com/catkin/catkin_tools/issues/525
 - sudo apt install libpcl1 ros-melodic-octomap-* ros-melodic-yaml-* no package error
     
     sudo apt install libpcl1 ros-melodic-octomap-* man jinhang
+
+- RLException: while processing /home/inhwa/catkin_ws/src/avoidance/global_planner/launch/mavros_sitl.launch:
+Invalid roslaunch XML syntax: [Errno 2] No such file or directory: u'/home/inhwa/catkin_ws/src/avoidance/global_planner/launch/mavros_sitl.launch'
+The traceback for the exception was written to the log file
