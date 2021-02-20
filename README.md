@@ -34,3 +34,5 @@ https://github.com/mmmmmmwei/obstacle_avoidance_drone
 
 - catkin build error
 https://github.com/catkin/catkin_tools/issues/525
+
+- sudo apt install libpcl1 ros-melodic-octomap-* ros-melodic-yaml-* no package error
