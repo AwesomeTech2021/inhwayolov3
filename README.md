@@ -32,10 +32,15 @@ https://github.com/Jaeyoung-Lim/avoidance
 - roslauch 실행할 때 반복해야할 것
 
 cd ~/Firmware
+
 export QT_X11_NO_MITSHM=1
+
 make px4_sitl_default gazebo
+
 . ~/Firmware/Tools/setup_gazebo.bash ~/Firmware ~/Firmware/build/px4_sitl_default
+
 export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:~/Firmware
+
 echo export GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}:~/catkin_ws/src/avoidance/avoidance/sim/models:~/catkin_ws/src/avoidance/avoidance/sim/worlds >> ~/.bashrc
 
 roslaunch global_planner global_planner_stereo.launch
