@@ -43,6 +43,8 @@ export ROS_PACKAGE_PATH=${ROS_PACKAGE_PATH}:~/Firmware
 
 echo export GAZEBO_MODEL_PATH=${GAZEBO_MODEL_PATH}:~/catkin_ws/src/avoidance/avoidance/sim/models:~/catkin_ws/src/avoidance/avoidance/sim/worlds >> ~/.bashrc
 
+source ~/catkin_ws/devel/setup.bash
+
 roslaunch global_planner global_planner_stereo.launch
 
 rosrun mavros mavsys mode -c OFFBOARD
