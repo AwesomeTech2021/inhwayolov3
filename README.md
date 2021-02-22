@@ -69,3 +69,11 @@ Invalid roslaunch XML syntax: [Errno 2] No such file or directory: u'/home/inhwa
 The traceback for the exception was written to the log file
 
     경로 바꿔줘야 함
+    
+- Resource not found: px4 error
+
+https://github.com/PX4/PX4-Avoidance/issues/596
+
+source /opt/ros/melodic/setup.bash
+
+source ~/catkin_ws/devel/setup.bash
