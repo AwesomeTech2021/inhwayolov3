@@ -77,3 +77,7 @@ https://github.com/PX4/PX4-Avoidance/issues/596
 source /opt/ros/melodic/setup.bash
 
 source ~/catkin_ws/devel/setup.bash
+
+스테레오 local_planner 
+
+https://swiftcam.tistory.com/274
